@@ -1,4 +1,4 @@
-package Leetcode.medium;
+package Leetcode.hard;
 
 /*
  * 
